@@ -1,5 +1,5 @@
-from PyQt5.QtWidgets import QWidget, QApplication, QVBoxLayout, QLabel
-from PyQt5.QtCore import Qt, QSize
+from PyQt5.QtWidgets import QWidget, QApplication, QLabel
+from PyQt5.QtCore import Qt
 
 class TestWindow(QWidget):
     def __init__(self):
