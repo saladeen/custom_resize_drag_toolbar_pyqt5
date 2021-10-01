@@ -1,5 +1,4 @@
 from PyQt5.QtWidgets import QWidget, QHBoxLayout, QLabel, QPushButton
-from PyQt5.QtGui import QIcon
 
 class CustomToolbar(QWidget):
     def __init__(self, parent, title_string: str):
